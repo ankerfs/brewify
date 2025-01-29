@@ -1,0 +1,4 @@
+#Python Virtual Env
+venv/
+__pycache__/
+.ropeproject/
